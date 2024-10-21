@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Sort-visualizer](https://github.com/Strange500/sort-visualizer)
 
-- 🌱 I’m currently learning **Java**
+<!--- 🌱 I’m currently learning **Java**-->
 
 - 👨‍💻 All of my projects are available at [https://portfolio.qgroget.com](https://portfolio.qgroget.com)
 

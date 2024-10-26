@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=strange500" alt="strange500" /></a> </p>
 
-- 🔭 I’m currently working on [Sort-visualizer](https://github.com/Strange500/sort-visualizer)
+- 🔭 I’m currently working on [Sort-visualizer](https://github.com/Strange500/sort-visualizer) & [My Portfolio](https://github.com/Strange500/portfolio)
 
 - 🌱 I’m currently learning **Java**
 

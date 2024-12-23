@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=strange500" alt="strange500" /></a> </p>
 
-- 🔭 I’m currently working on [Sort-visualizer](https://github.com/Strange500/sort-visualizer) & [My Portfolio](https://github.com/Strange500/portfolio)
+- 🔭 I’m currently working on [GameList](https://github.com/Strange500/GameList) & [My Portfolio](https://github.com/Strange500/portfolio)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java & Next.js**
 
 <!--- 👨‍💻 All of my projects are available at [https://portfolio.qgroget.com](https://portfolio.qgroget.com)-->
 

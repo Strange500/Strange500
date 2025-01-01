@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [GameList](https://github.com/Strange500/GameList) & [My Portfolio](https://github.com/Strange500/portfolio)
 
-- 🌱 I’m currently learning **Java & Next.js**
+- 🌱 I’m currently learning **Java, Next.js & TypeScript**
 
 <!--- 👨‍💻 All of my projects are available at [https://portfolio.qgroget.com](https://portfolio.qgroget.com)-->
 

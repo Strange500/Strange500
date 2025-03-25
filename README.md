@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=strange500" alt="strange500" /></a> </p>
 
-- 🔭 I’m currently working on [GameList](https://github.com/Strange500/GameList) & [My Portfolio](https://github.com/Strange500/portfolio)
+- 🔭 I’m currently working on [GameList](https://github.com/Strange500/GameList) & [My new portfolio](https://github.com/Strange500/nextPortfolio)
 
 - 🌱 I’m currently learning **Java, Next.js & TypeScript**
 

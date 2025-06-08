@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strange500&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="strange500" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=strange500" alt="strange500" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=strange500&rank=-C,-B,-?" alt="strange500" /></a> </p>
 
 - 🔭 I’m currently working on [GameList](https://github.com/Strange500/GameList) & [My new portfolio](https://github.com/Strange500/nextPortfolio)
 
 - 🌱 I’m currently learning **Java, Next.js & TypeScript**
 
-<!--- 👨‍💻 All of my projects are available at [https://portfolio.qgroget.com](https://portfolio.qgroget.com)-->
+- 👨‍💻 All of my projects are available at [https://portfolio.qgroget.com](https://portfolio.qgroget.com)
 
 - 📫 How to reach me **benjamin.rogetpro@gmail.com**
 

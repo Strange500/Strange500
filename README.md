@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=strange500&rank=-C,-B,-?" alt="strange500" /></a> </p>
 
-- 🔭 I’m currently working on [GameList](https://github.com/Strange500/GameList) & [My new portfolio](https://github.com/Strange500/nextPortfolio)
+- 🔭 I’m currently working on [my NixOS config](https://github.com/Strange500/nixos-config) & [My portfolio](https://github.com/Strange500/nextPortfolio)
 
-- 🌱 I’m currently learning **Java, Next.js & TypeScript**
+- 🌱 I’m currently learning **Nix, Next.js & TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://portfolio.qgroget.com](https://portfolio.qgroget.com)
 

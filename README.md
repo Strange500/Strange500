@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my NixOS config](https://github.com/Strange500/nixos-config) & [My portfolio](https://github.com/Strange500/nextPortfolio)
 
-- 🌱 I’m currently learning **Nix, Next.js & TypeScript**
+- 🌱 I’m currently learning **Nix and Rust**
 
 - 👨‍💻 All of my projects are available at [https://portfolio.qgroget.com](https://portfolio.qgroget.com)
 

@@ -14,7 +14,7 @@
 - 📫 How to reach me **benjamin.rogetpro@gmail.com**
 
 
-<p>![Stats](./profile/stats.svg)</p>
+<p><img align="left" src="./profile/stats.svg" alt="strange500" /></p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strange500&show_icons=true&locale=en" alt="strange500" /></p>-->
 

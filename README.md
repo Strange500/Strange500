@@ -9,7 +9,7 @@
 
 ### 🚀 What I'm up to
 
-- 🔭 **Currently working on:** [My NixOS config](https://github.com/Strange500/nixos-config) & [My Portfolio](https://github.com/Strange500/nextPortfolio)
+- 🔭 **Currently working on:** [My NixOS config](https://github.com/Strange500/nixos-config) & [pico-ledger, an embedded Rust project](https://github.com/Strange500/pico-ledger)
 - 🌱 **Currently learning:** Rust, TypeScript & Nix
 - 👨‍💻 **My projects:** Available at [portfolio.qgroget.com](https://portfolio.qgroget.com)
 

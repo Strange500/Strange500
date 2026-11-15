@@ -10,8 +10,8 @@
 ### 🚀 What I'm up to
 
 - 🔭 **Currently working on:** [My NixOS config](https://github.com/Strange500/nixos-config) & [nextPortfolio](https://github.com/Strange500/nextPortfolio)
-- 🌱 **Currently learning:** Rust, TypeScript & Nix
-- 👨‍💻 **My projects:** Available at [portfolio.qgroget.com](https://portfolio.qgroget.com)
+- 🐱 Currently learning: Rust & Angular
+- 💻 My projects: portfolio.qgroget.com
 
 ### 🛠️ Tech Stack & Tools
 
